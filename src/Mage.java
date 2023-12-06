@@ -2,6 +2,7 @@ import java.util.Random;
 public class Mage extends Character{
     Random random = new Random();
 
+
     /**
      * create new character with mage class
      * @param name
